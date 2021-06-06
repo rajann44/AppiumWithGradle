@@ -1,0 +1,14 @@
+uiElements/pages/BasePage.java
+ uiElements.pages.BasePage
+uiElements/pages/GenericPage.java
+ uiElements.pages.GenericPage
+config/PropertiesFile.java
+ config.PropertiesFile
+utils/AppDriver.java
+ utils.AppDriver
+utils/TestListeners.java
+ utils.TestListeners
+uiElements/locators/GenericLocator.java
+ uiElements.locators.GenericLocator
+utils/ExtentReportManager.java
+ utils.ExtentReportManager

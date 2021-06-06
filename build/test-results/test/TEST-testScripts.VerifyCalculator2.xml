@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testScripts.VerifyCalculator2" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-06-06T20:12:20" hostname="Rajans-MacBook-Air.local" time="0.337">
+  <properties/>
+  <testcase name="openCalculatorTWO" classname="testScripts.VerifyCalculator2" time="0.201"/>
+  <testcase name="openCalculator2" classname="testScripts.VerifyCalculator2" time="0.126"/>
+  <system-out><![CDATA[IN CLASS 2 - METHOD 1
+IN CLASS 2 - METHOD 2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
