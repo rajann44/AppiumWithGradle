@@ -1,0 +1,4 @@
+testScripts/VerifyCalculator1.java
+ testScripts.VerifyCalculator1
+testScripts/VerifyCalculator2.java
+ testScripts.VerifyCalculator2
